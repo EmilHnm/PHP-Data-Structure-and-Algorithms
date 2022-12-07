@@ -241,7 +241,7 @@ class queue
 
 1. Duyệt tuần tự từ đầu đến cuối mảng
 2. Nếu phần tự đang được duyệt bằng với yêu cầu thì trả về vị trí
-3. Nếu không có phần tử nào thảo mẫn điều kiện thì trả về `-1`
+3. Nếu không có phần tử nào thỏa mãn điều kiện thì trả về `-1`
 
 &nbsp;Ví dụ:
 
